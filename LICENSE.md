@@ -1,5 +1,4 @@
-## Don't Be a Jerk: The Open Source Software License.
-
+Don't Be a Jerk: The Open Source Software License.
 Last Update: March 19, 2015
 
 This software is free and open source.
