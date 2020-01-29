@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$${1:view} = new \CodeIgniter\View\View();
+]]></content>
+    <tabTrigger>ci_new_renderer</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI4 - New View Renderer</description>
+</snippet>

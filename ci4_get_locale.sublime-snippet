@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$locale = $this->request->getLocale();
+]]></content>
+    <tabTrigger>ci_get_locale</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI4 - Get Locale</description>
+</snippet>
