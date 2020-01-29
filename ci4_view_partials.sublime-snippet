@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<?php echo \$this->include('${1:content}') ?>
+]]></content>
+    <tabTrigger>ci_view_include</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI4 - View include</description>
+</snippet>

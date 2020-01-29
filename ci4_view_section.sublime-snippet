@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+<?php echo \$this->section('${1:content}') ?>
+    <h1>${2:Hello World}</h1>
+<?php echo \$this->endSection() ?>
+]]></content>
+    <tabTrigger>ci_view_section</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI4 - View section (content within a view that extends a layout)</description>
+</snippet>

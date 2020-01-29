@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+echo \$this->renderSection('${1:content}');
+]]></content>
+    <tabTrigger>ci_render_section</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI4 - Render section (content view)</description>
+</snippet>

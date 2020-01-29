@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$row = \$query->getRow();
+]]></content>
+    <tabTrigger>ci_query_row</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI4 - Get the query row (object)</description>
+</snippet>
