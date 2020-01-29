@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+echo view('${1:view_name}');
+]]></content>
+    <tabTrigger>ci_echo_view</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI4 - Echo View</description>
+</snippet>
