@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+helper('${1:helper_name}'');
+]]></content>
+    <tabTrigger>ci_load_helper</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI4 - Load Helper</description>
+</snippet>
