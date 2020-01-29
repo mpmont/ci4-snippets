@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$query = \$db->query('${1:SELECT name, title, email FROM my_table}');
+]]></content>
+    <tabTrigger>ci_db_query</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI4 - Query</description>
+</snippet>

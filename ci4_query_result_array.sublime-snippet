@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$results = \$query->getResultArray();
+]]></content>
+    <tabTrigger>ci_query_result_array</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI4 - Get the query result (Array)</description>
+</snippet>
