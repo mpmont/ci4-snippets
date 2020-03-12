@@ -1,5 +1,25 @@
-# ci4-snippets
-Codeigniter 4 snippets for Sublime Text 3
+Codeigniter 4 Snippets for Sublime Text 2/3
+=======================
+
+[![Codeigniter](https://img.shields.io/badge/Codeigniter-v4.0-orange.svg)](http://codeigniter.com/)
+
+This is a [Sublime Text][sublime] package which includes a bunch of handy snippets for doing Codeigniter 4 framework development.
+
+### Easy installation ###
+
+If you have the [Package Control][package_control] package installed, you can install Codeigniter framework Snippets from inside Sublime Text itself. Open the Command Palette and select "Package Control: Install Package", then search for Codeigniter 4 framework Snippets.
+
+### Manual installation ###
+
+If you haven't got Package Control installed you will need to make a clone of this repository into your packages folder **(Preferences > Browse packages...)**, like so:
+
+ > `git clone https://github.com/mpmont/ci4-snippets ci4-snippets`
+
+If you find error or whatever just fork it and send me a pull request.
+
+[sublime]: http://www.sublimetext.com/
+[package_control]: https://packagecontrol.io/
+
 
 ## Avaiable snippets
 
