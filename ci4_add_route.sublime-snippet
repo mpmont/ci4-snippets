@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+    \$routes->add('${1:(:any)}', 'App\${2:Catalog::productLookup}');
+]]></content>
+    <tabTrigger>ci_addroute</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI4 - Add Route</description>
+</snippet>

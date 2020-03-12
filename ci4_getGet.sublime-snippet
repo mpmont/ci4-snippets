@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+    \$request->getGet('${1:var_name}');
+]]></content>
+    <tabTrigger>ci_getGet</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI4 - return any data from $_GET</description>
+</snippet>

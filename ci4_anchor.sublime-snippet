@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+anchor('${1:your/link}', '{2:your label}');
+]]></content>
+    <tabTrigger>ci_anchor</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI4 - Anchor Link</description>
+</snippet>

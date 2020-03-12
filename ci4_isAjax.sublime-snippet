@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+    \$this->request->isAJAX()
+]]></content>
+    <tabTrigger>ci_isajax</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI4 - Check if request is ajax</description>
+</snippet>
