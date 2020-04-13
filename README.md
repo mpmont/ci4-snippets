@@ -58,5 +58,5 @@ If you find error or whatever just fork it and send me a pull request.
 
 # Contributors
 
-[Marco Monteiro](https://marcomonteiro.net)
-[haerunn](https://github.com/haerunn)
+* [Marco Monteiro](https://marcomonteiro.net)
+* [haerunn](https://github.com/haerunn)
