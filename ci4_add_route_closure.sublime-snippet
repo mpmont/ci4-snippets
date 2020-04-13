@@ -1,10 +1,10 @@
 <snippet>
     <content><![CDATA[
-        \$routes->add('${1:(:any)}', function()
-        {
-            \$${1:rss} = new ${2:RSSFeeder}();
-            return \$${3:rss}->${4:feed}('${5:general}');
-        });
+\$routes->add('${1:(:any)}', function()
+{
+    \$${1:rss} = new ${2:RSSFeeder}();
+    return \$${3:rss}->${4:feed}('${5:general}');
+});
 ]]></content>
     <tabTrigger>ci_addrouteclosure</tabTrigger>
     <scope>source.php</scope>

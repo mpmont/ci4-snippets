@@ -32,7 +32,7 @@ If you find error or whatever just fork it and send me a pull request.
 | ci_new_renderer | New View Renderer |
 | ci_render_section =ci_log |  Logging information> Render section view |
 | ci_extend_layout | Extend layout (insert view into a layout) |
-| ci_view_section | View section (content within a view that extends a layout) |
+| ci_view_section | View section (content within a view that extends a layout) 
 | ci_view_include | View include |
 | ci_get_locale | Get Locale |
 | load_database | Load the Database |
@@ -53,7 +53,9 @@ If you find error or whatever just fork it and send me a pull request.
 | ci_iscli | Check if request is CLI |
 | ci_issecure | Check if request is HTTPS |
 | ci_log | Logging information |
+| ci_filter | Create a new filter class | 
 
 # Contributors
 
 [Marco Monteiro](https://marcomonteiro.net)
+[haerunn](https://github.com/haerunn)

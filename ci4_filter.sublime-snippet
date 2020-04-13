@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+<?php namespace App\Filters;
+
+use CodeIgniter\HTTP\RequestInterface;
+use CodeIgniter\HTTP\ResponseInterface;
+use CodeIgniter\Filters\FilterInterface;
+
+class ${1:${TM_FILENAME/(.+)\..+|.*/\u$1/:FilterName}}Filter implements FilterInterface
+{
+    public function before(RequestInterface $request)
+    {
+        ${2}
+    }
+
+    //--------------------------------------------------------------------
+
+    public function after(RequestInterface $request, ResponseInterface $response)
+    {
+        ${3}
+    }
+}
+]]></content>
+	<tabTrigger>ci_filter</tabTrigger>
+	<scope>source.php, text.html.basic, text.plain</scope>
+	<description>CI4 - Base Controller</description>
+</snippet>
