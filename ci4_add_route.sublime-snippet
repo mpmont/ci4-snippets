@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-    \$routes->add('${1:(:any)}', 'App\${2:Catalog::productLookup}');
+\$routes->add('${1:(:any)}', '${2:Catalog}::${3:productLookup}${4:/${5:\$i}}');
 ]]></content>
     <tabTrigger>ci_addroute</tabTrigger>
     <scope>source.php</scope>
