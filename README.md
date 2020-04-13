@@ -54,6 +54,7 @@ If you find error or whatever just fork it and send me a pull request.
 | ci_issecure | Check if request is HTTPS |
 | ci_log | Logging information |
 | ci_filter | Create a new filter class | 
+| ci_db_conn | Create a new database connection | 
 
 # Contributors
 
