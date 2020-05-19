@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[
+\$email = \Config\Services::email();
+
+\$email->setFrom('${1:email@email.com}', '${2:Name}');
+\$email->setTo('${3:someone@example.com}');
+\$email->setCC('${4:another@example.com}');
+\$email->setBCC('${5:and@another.com}');
+
+\$email->setSubject('${6:subject}');
+\$email->setMessage('${7:message}');
+
+\$email->send();
+]]></content>
+    <tabTrigger>ci_email</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI4 - Basic example demonstrating how you might send email</description>
+</snippet>

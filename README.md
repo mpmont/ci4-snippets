@@ -58,6 +58,8 @@ If you find error or whatever just fork it and send me a pull request.
 | ci_entity | Create a new Entity class | 
 | ci_cache | Save into the cache for x minutes | 
 | ci_getcache | Grab an instance of the cache engine directly through the Services class | 
+| ci_email | Basic example demonstrating how you might send email | 
+| ci_email_config | Basic email Preferences | 
 
 # Contributors
 
