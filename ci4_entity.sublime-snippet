@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+<?php namespace App\Entities;
+
+use CodeIgniter\Entity;
+
+class ${1:className} extends Entity
+{
+    ${2://}
+}
+]]></content>
+    <tabTrigger>ci_entity</tabTrigger>
+    <scope>source.php, text.html.basic, text.plain</scope>
+    <description>CI4 - Entity Class</description>
+</snippet>

@@ -55,6 +55,7 @@ If you find error or whatever just fork it and send me a pull request.
 | ci_log | Logging information |
 | ci_filter | Create a new filter class | 
 | ci_db_conn | Create a new database connection | 
+| ci_entity | Create a new Entity class | 
 
 # Contributors
 
