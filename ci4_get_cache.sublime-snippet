@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+\$cache = \Config\Services::cache();
+\$${1:foo} = \$cache->get('${2:foo}');
+]]></content>
+    <tabTrigger>ci_getcache</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI4 - Grab an instance of the cache engine directly through the Services class</description>
+</snippet>

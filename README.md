@@ -56,6 +56,8 @@ If you find error or whatever just fork it and send me a pull request.
 | ci_filter | Create a new filter class | 
 | ci_db_conn | Create a new database connection | 
 | ci_entity | Create a new Entity class | 
+| ci_cache | Save into the cache for x minutes | 
+| ci_getcache | Grab an instance of the cache engine directly through the Services class | 
 
 # Contributors
 

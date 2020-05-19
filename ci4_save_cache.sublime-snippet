@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+cache()->save('${1:foo}', ${2:$foo}, ${1:300});
+]]></content>
+    <tabTrigger>ci_cache</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI4 - Save into the cache for x minutes</description>
+</snippet>
