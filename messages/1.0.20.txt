@@ -1,0 +1,7 @@
+Added some more codeigniter 4 snippets to our repo
+
+ci_entity - Create a new Entity class
+ci_cache - Save into the cache for x minutes
+ci_getcache - Grab an instance of the cache engine directly through the Services class
+ci_email - Basic example demonstrating how you might send email
+ci_email_config - Basic email Preferences

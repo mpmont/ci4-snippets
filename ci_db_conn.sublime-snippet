@@ -1,8 +1,9 @@
 <snippet>
     <content><![CDATA[
 \$db = \Config\Database::connect();
+\$builder = $db->table('${1:table_name}');
 ]]></content>
-    <tabTrigger>ci_db_connr</tabTrigger>
+    <tabTrigger>ci_conn</tabTrigger>
     <scope>source.php</scope>
     <description>CI4 - Create a new database connection</description>
 </snippet>

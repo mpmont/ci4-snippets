@@ -1,0 +1,43 @@
+<snippet>
+    <content><![CDATA[
+\$template = [
+        'table_open'         => '${1:<table border="0" cellpadding="4" cellspacing="0">}',
+
+        'thead_open'         => '${2:<thead>}',
+        'thead_close'        => '${3:</thead>}',
+
+        'heading_row_start'  => '${4:<tr>}',
+        'heading_row_end'    => '${5:</tr>}',
+        'heading_cell_start' => '${6:<th>}',
+        'heading_cell_end'   => '${7:</th>}',
+
+        'tfoot_open'         => '${8:<tfoot>}',
+        'tfoot_close'        => '${9:</tfoot>}',
+
+        'footing_row_start'  => '${10:<tr>}',
+        'footing_row_end'    => '${11:</tr>}',
+        'footing_cell_start' => '${12:<td>}',
+        'footing_cell_end'   => '${13:</td>}',
+
+        'tbody_open'         => '${14:<tbody>}',
+        'tbody_close'        => '${15:</tbody>}',
+
+        'row_start'          => '${16:<tr>}',
+        'row_end'            => '${17:</tr>}',
+        'cell_start'         => '${18:<td>}',
+        'cell_end'           => '${19:</td>}',
+
+        'row_alt_start'      => '${20:<tr>}',
+        'row_alt_end'        => '${21:</tr>}',
+        'cell_alt_start'     => '${22:<td>}',
+        'cell_alt_end'       => '${23:</td>}',
+
+        'table_close'        => '${24:</table>}'
+];
+
+\$table->setTemplate($template);
+]]></content>
+    <tabTrigger>ci_table_template</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI4 - Set a table template with which you can specify the design of your layout</description>
+</snippet>

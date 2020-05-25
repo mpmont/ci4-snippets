@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+\$table = new \CodeIgniter\View\Table();
+\$query = $db->query('SELECT * FROM my_table');
+echo \$table->generate($query);
+]]></content>
+    <tabTrigger>ci_query_table</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI4 - Table created from a database query result</description>
+</snippet>

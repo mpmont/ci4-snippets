@@ -1,0 +1,9 @@
+1.0.24 
+
+- Added messages
+- Added html table 
+    + ci_html_table - Create a basic html table based in a given array  
+    + ci_query_table - Create a basic html table based in query result  
+    + ci_table_template - Set your basic html table layout 
+- Fixed ci_db_conn snippet
+- Updated readme file

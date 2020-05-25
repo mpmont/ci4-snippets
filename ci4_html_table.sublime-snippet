@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+\$table = new \CodeIgniter\View\Table();
+\$data = [
+        ['Name', 'Color', 'Size'],
+        ['Fred', 'Blue',  'Small'],
+        ['Mary', 'Red',   'Large'],
+        ['John', 'Green', 'Medium'],
+];
+echo \$table->generate(\$data);
+]]></content>
+    <tabTrigger>ci_html_table</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI4 - The Table Class provides methods that enable you to auto-generate HTML tables</description>
+</snippet>

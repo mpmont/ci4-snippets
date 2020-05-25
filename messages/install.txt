@@ -1,0 +1,10 @@
+This is a Sublime Text package which includes a bunch of handy snippets for doing Codeigniter 4 framework development.
+
+If you find any problems please submit a pull request to: https://github.com/mpmont/ci4-snippets
+
+Have any snippets for codeigniter 4 in your sublime install? Submit them here: https://github.com/mpmont/ci4-snippets
+
+Thanks to all our contributors: 
+
+- Marco Monteiro
+- haerunn

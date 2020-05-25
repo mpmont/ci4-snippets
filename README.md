@@ -3,6 +3,8 @@ Codeigniter 4 Snippets for Sublime Text 2/3
 
 [![Codeigniter](https://img.shields.io/badge/Codeigniter-v4.0-orange.svg)](http://codeigniter.com/)
 
+[![Downloads](https://packagecontrol.herokuapp.com/downloads/CodeIgniter%20Snippets.svg?color=80d4cd)](https://packagecontrol.io/packages/CodeIgniter%204%20Snippets)
+
 This is a [Sublime Text][sublime] package which includes a bunch of handy snippets for doing Codeigniter 4 framework development.
 
 ### Easy installation ###
@@ -60,6 +62,9 @@ If you find error or whatever just fork it and send me a pull request.
 | ci_getcache | Grab an instance of the cache engine directly through the Services class | 
 | ci_email | Basic example demonstrating how you might send email | 
 | ci_email_config | Basic email Preferences | 
+| ci_html_table | Create a basic html table based in a given array | 
+| ci_query_table | Create a basic html table based in query result | 
+| ci_table_template | Set your basic html table layout | 
 
 # Contributors
 
