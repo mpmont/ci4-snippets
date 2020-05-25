@@ -3,7 +3,7 @@ Codeigniter 4 Snippets for Sublime Text 2/3
 
 [![Codeigniter](https://img.shields.io/badge/Codeigniter-v4.0-orange.svg)](http://codeigniter.com/)
 
-[![Downloads](https://packagecontrol.herokuapp.com/downloads/CodeIgniter%20Snippets.svg?color=80d4cd)](https://packagecontrol.io/packages/CodeIgniter%204%20Snippets)
+[![Downloads](https://packagecontrol.herokuapp.com/downloads/CodeIgniter%204%20Snippets.svg?color=80d4cd)](https://packagecontrol.io/packages/CodeIgniter%204%20Snippets)
 
 This is a [Sublime Text][sublime] package which includes a bunch of handy snippets for doing Codeigniter 4 framework development.
 
