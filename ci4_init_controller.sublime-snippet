@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+public function initController(\CodeIgniter\HTTP\RequestInterface $request, \CodeIgniter\HTTP\ResponseInterface $response, \Psr\Log\LoggerInterface $logger)
+{
+    parent::initController(\$request, \$response, \$logger);
+    ${1:default}
+}
+]]></content>
+    <tabTrigger>ci_inicontroller</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI4 - Create an init controller function</description>
+</snippet>

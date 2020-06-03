@@ -2,7 +2,6 @@ Codeigniter 4 Snippets for Sublime Text 2/3
 =======================
 
 [![Codeigniter](https://img.shields.io/badge/Codeigniter-v4.0-orange.svg)](http://codeigniter.com/)
-
 [![Downloads](https://packagecontrol.herokuapp.com/downloads/CodeIgniter%204%20Snippets.svg?color=80d4cd)](https://packagecontrol.io/packages/CodeIgniter%204%20Snippets)
 
 This is a [Sublime Text][sublime] package which includes a bunch of handy snippets for doing Codeigniter 4 framework development.
@@ -65,6 +64,7 @@ If you find error or whatever just fork it and send me a pull request.
 | ci_html_table | Create a basic html table based in a given array | 
 | ci_query_table | Create a basic html table based in query result | 
 | ci_table_template | Set your basic html table layout | 
+| ci_inicontroller | Create an init controller function | 
 
 # Contributors
 

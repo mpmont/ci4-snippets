@@ -1,0 +1,3 @@
+Added some more codeigniter 4 snippets to our repo
+
+ci_inicontroller - Create an init controller function
