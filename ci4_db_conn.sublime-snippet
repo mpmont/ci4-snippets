@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
 \$db = \Config\Database::connect();
-\$builder = $db->table('${1:table_name}');
+\$builder = \$db->table('${1:table_name}');
 ]]></content>
     <tabTrigger>ci_conn</tabTrigger>
     <scope>source.php</scope>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-public function initController(\CodeIgniter\HTTP\RequestInterface $request, \CodeIgniter\HTTP\ResponseInterface $response, \Psr\Log\LoggerInterface $logger)
+public function initController(\CodeIgniter\HTTP\RequestInterface \$request, \CodeIgniter\HTTP\ResponseInterface \$response, \Psr\Log\LoggerInterface \$logger)
 {
     parent::initController(\$request, \$response, \$logger);
     ${1:default}
