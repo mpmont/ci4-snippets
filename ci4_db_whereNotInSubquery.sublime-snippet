@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+\$builder->orWhereNotIn('${1:field}', function(BaseBuilder \$builder) {
+    return \$builder->select('${2:field}')->from('${3:table}')->where('${4:field}', ${5:value});
+});
+]]></content>
+    <tabTrigger>ci_db_notinsub</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI4 - Generates a WHERE field NOT IN (‘item’, ‘item’) SQL query joined with OR if appropriate with subqueries instead of an array of values.</description>
+</snippet>

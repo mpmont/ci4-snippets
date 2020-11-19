@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$db->getLastQuery();
+]]></content>
+    <tabTrigger>ci_lastquery</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI4 - Returns a Query object that represents the last query that was run (the query string, not the result).</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$db->getVersion();
+]]></content>
+    <tabTrigger>ci_version</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI4 - Outputs the database version you are running</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$db->insertID();
+]]></content>
+    <tabTrigger>ci_insertid</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI4 - The insert ID number when performing database inserts.</description>
+</snippet>

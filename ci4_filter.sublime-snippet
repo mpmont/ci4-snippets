@@ -8,14 +8,14 @@ use CodeIgniter\Filters\FilterInterface;
 
 class ${1:${TM_FILENAME/(.+)\..+|.*/\u$1/:FilterName}}Filter implements FilterInterface
 {
-    public function before(RequestInterface $request)
+    public function before(RequestInterface \$request, \$arguments = null)
     {
         ${2}
     }
 
     //--------------------------------------------------------------------
 
-    public function after(RequestInterface $request, ResponseInterface $response)
+    public function after(RequestInterface \$request, ResponseInterface \$response, \$arguments = null)
     {
         ${3}
     }

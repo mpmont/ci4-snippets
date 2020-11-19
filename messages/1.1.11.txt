@@ -1,0 +1,17 @@
+Added some more codeigniter 4 snippets to our repo
+
+ci4_affectedRows
+ci4_countAll
+ci4_db_from
+ci4_db_join
+ci4_db_whereNotIn
+ci4_db_whereNotInSubquery
+ci4_getPlatform
+ci4_getVersion
+ci4_insertID
+ci4_lastQuery
+
+Fixed some existing snippets
+
+ci4_email_config
+ci4_filter

@@ -1,12 +1,12 @@
 <snippet>
     <content><![CDATA[
-$config['protocol'] = '${1:sendmail}';
-$config['mailPath'] = '${2:/usr/sbin/sendmail}';
-$config['charset']  = '${3:utf-8}';
-$config['wordWrap'] = ${4:true};
-$config['userAgent'] = ${4:CodeIgniter};
-$config['mailType'] = ${5:text};
-$config['validate'] = ${6:true};
+\$config['protocol'] = '${1:sendmail}';
+\$config['mailPath'] = '${2:/usr/sbin/sendmail}';
+\$config['charset']  = '${3:utf-8}';
+\$config['wordWrap'] = ${4:true};
+\$config['userAgent'] = ${4:CodeIgniter};
+\$config['mailType'] = ${5:text};
+\$config['validate'] = ${6:true};
 
 $email->initialize($config);
 ]]></content>

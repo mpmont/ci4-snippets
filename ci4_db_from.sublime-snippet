@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$builder->from('${1:fields}');
+]]></content>
+    <tabTrigger>ci_from</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI4 - Permits you to write the FROM portion of your query</description>
+</snippet>

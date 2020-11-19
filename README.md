@@ -33,7 +33,7 @@ If you find error or whatever just fork it and send me a pull request.
 | ci_new_renderer | New View Renderer |
 | ci_render_section =ci_log |  Logging information> Render section view |
 | ci_extend_layout | Extend layout (insert view into a layout) |
-| ci_view_section | View section (content within a view that extends a layout) 
+| ci_view_section | View section (content within a view that extends a layout)
 | ci_view_include | View include |
 | ci_get_locale | Get Locale |
 | load_database | Load the Database |
@@ -54,17 +54,29 @@ If you find error or whatever just fork it and send me a pull request.
 | ci_iscli | Check if request is CLI |
 | ci_issecure | Check if request is HTTPS |
 | ci_log | Logging information |
-| ci_filter | Create a new filter class | 
-| ci_db_conn | Create a new database connection | 
-| ci_entity | Create a new Entity class | 
-| ci_cache | Save into the cache for x minutes | 
-| ci_getcache | Grab an instance of the cache engine directly through the Services class | 
-| ci_email | Basic example demonstrating how you might send email | 
-| ci_email_config | Basic email Preferences | 
-| ci_html_table | Create a basic html table based in a given array | 
-| ci_query_table | Create a basic html table based in query result | 
-| ci_table_template | Set your basic html table layout | 
-| ci_inicontroller | Create an init controller function | 
+| ci_filter | Create a new filter class |
+| ci_db_conn | Create a new database connection |
+| ci_entity | Create a new Entity class |
+| ci_cache | Save into the cache for x minutes |
+| ci_getcache | Grab an instance of the cache engine directly through the Services class |
+| ci_email | Basic example demonstrating how you might send email |
+| ci_email_config | Basic email Preferences |
+| ci_html_table | Create a basic html table based in a given array |
+| ci_query_table | Create a basic html table based in query result |
+| ci_table_template | Set your basic html table layout |
+| ci_inicontroller | Create an init controller function |
+| ci4_affectedRows | Query builder get the affected rows |
+| ci4_countAll | Query builder count all results |
+| ci4_db_from | Query builder set From |
+| ci4_db_join | Query builder set Join |
+| ci4_db_whereNotIn | Query builder Where Not In |
+| ci4_db_whereNotInSubquery | Query builder where not in with subquery |
+| ci4_getPlatform | Get DB platform |
+| ci4_getVersion | Get DB Version |
+| ci4_insertID | Get inserted ID |
+| ci4_lastQuery | Get last query from query builder |
+
+
 
 # Contributors
 

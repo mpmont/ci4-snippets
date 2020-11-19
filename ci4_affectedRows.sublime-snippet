@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$db->affectedRows();
+]]></content>
+    <tabTrigger>ci_affectedrows</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI4 - Displays the number of affected rows, when doing “write” type queries (insert, update, etc.).</description>
+</snippet>

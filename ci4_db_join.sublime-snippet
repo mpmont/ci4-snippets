@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+\$builder->join('${1:table_name}', '${2:table_name}.${3:pk} = ${4:table_name}.${1:fk}');
+]]></content>
+    <tabTrigger>ci_join</tabTrigger>
+    <scope>source.php</scope>
+    <description>CI4 - Permits you to write the JOIN portion of your query:</description>
+</snippet>
